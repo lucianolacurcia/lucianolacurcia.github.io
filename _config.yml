@@ -1,7 +1,7 @@
 title: Luciano Lacurcia
 # logo: "images/logo.svg" # You can add own logo image.
 description: Página de proyectos personales
-baseurl: "/lucianolacurcia.github.io" # The subpath of your site, e.g. /blog
+baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://lucianolacurcia.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
