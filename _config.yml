@@ -1,12 +1,12 @@
-title: Reked
-logo: "images/logo.svg" # You can add own logo image.
-description: Minimalistic Theme for Jekyll
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+title: Luciano Lacurcia
+# logo: "images/logo.svg" # You can add own logo image.
+description: Página de proyectos personales
+baseurl: "/lucianolacurcia.github.io" # The subpath of your site, e.g. /blog
+url: "https://lucianolacurcia.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Sasha Levi
+  name: Luciano Lacurcia
   bio: Hi, my name is Sasha Levi. I like being at the center of events, being free and enjoying every moment. Thank you for visiting my blog.
 
 # Contact links
