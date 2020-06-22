@@ -69,7 +69,7 @@ layout: default
 					</ul>
 				</div>
 
-				<div class="widget-recent">
+				<!-- <div class="widget-recent">
 					<h5 class="widget__title">Recommended for you</h5>
 					<div class="recent-box">
 						{% for post in site.posts offset:0 limit:3 %}
@@ -85,9 +85,9 @@ layout: default
 						</div>
 						{% endfor %}
 					</div>
-				</div>
+				</div> -->
 
-				<div class="widget-newsletter">
+				<!-- <div class="widget-newsletter">
 					<h5 class="newsletter-title wow fadeInUp">Get Interesting News</h5>
 					<div class="newsletter-subtitle wow fadeInUp" data-wow-delay=".2s">Stay up to date! Get all the latest & gretest posts delivered straight to your inbox</div>
 					<form class="newsletter-form validate" action="{% if site.mailchimp %}//{{site.mailchimp}}{% else %}#{% endif %}"
@@ -100,7 +100,7 @@ layout: default
 							<input class="newsletter-button" id="membedded-subscribe" type="submit" name="subscribe" value="Subscribe">
 						</div>
 					</form>
-				</div>
+				</div> -->
 	
 	
 				{% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}

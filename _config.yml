@@ -21,10 +21,10 @@ email: forexample@website.com # Add your Email address
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: Raked Minimalistic Theme # Add your hero title
 hero-subtitle: For those who love simplicity # Add your hero subtitle
-hero-image: images/14.jpg # Add background image in section hero
+hero-image: images/presidencia.jpeg # Add background image in section hero
 
 # Footer
-footer-image: images/14.jpg # Add background image in footer
+footer-image: images/presidencia.jpeg # Add background image in footer
 
 # Comment Section (Disqus)
 disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
